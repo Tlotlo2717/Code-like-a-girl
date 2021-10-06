@@ -1,7 +1,7 @@
-body{
-    background-color: palegreen;
-}
 
+#grad {
+    background-image: linear-gradient(to right,red,orange,yellow,green,blue,purple,rgb(209, 21, 52))
+  }
 #container{
     display: flex;
     flex-direction: column;
