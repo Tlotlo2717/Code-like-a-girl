@@ -45,3 +45,16 @@ ul {
     padding: 15px;
     text-align: center;
   }
+  h1 {
+    text-align: right;
+  }
+  
+  h3 {
+    text-align: left
+    }
+    div.a {
+      text-align: center;
+    }
+    a {
+      color: hotpink;
+    }
