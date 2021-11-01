@@ -106,15 +106,10 @@ ul {
       clear: both;
     }
     h2{
-      float: right;
+      float: center;
     }
   p{
     float: left;
     ;
   }
-  h1{
-    float: right;
-  }
-  h3{
-    float: right;
-  }
+  
