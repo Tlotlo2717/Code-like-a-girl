@@ -1,3 +1,10 @@
 body{
     background-image: url( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOtIMsNhr5Kc1a2EKnzvQgTTugsKbMHVNbQ&usqp=CAU ");
 }
+
+h1{
+text-align: center;
+}
+p{
+    text-align: center;
+}
